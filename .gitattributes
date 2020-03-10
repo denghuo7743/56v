@@ -1,4 +1,3 @@
 /*
 !.gitignore
-!/themes
-!/plugins
+!/wp-content
