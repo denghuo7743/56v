@@ -125,7 +125,7 @@ pre[class*="language-"].line-numbers {
 	position: relative;
 	padding-left: 3.8em;
 	counter-reset: linenumber;
-	max-height:650px; /*可以修改代码展示高度*/
+	max-height:100%; /*可以修改代码展示高度*/
 }
 
 pre[class*="language-"].line-numbers > code {
